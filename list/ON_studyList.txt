@@ -1,0 +1,241 @@
+ID	Weight	Nested	Procedure	Word	CorResp
+1	1		TrialProc1	SCREEN	1
+2	1		TrialProc1	BARREL	1
+3	1		TrialProc1	LADDER	1
+4	1		TrialProc1	DEMISE	1
+5	1		TrialProc1	COFFEE	1
+6	1		TrialProc1	IRONY	1
+7	1		TrialProc1	CHILD	1
+8	1		TrialProc1	BISCUIT	1
+9	1		TrialProc1	BAGPIPE	1
+10	1		TrialProc1	PRESENCE	1
+11	1		TrialProc1	HORSE	1
+12	1		TrialProc1	PLATE	1
+13	1		TrialProc1	SPIRIT	1
+14	1		TrialProc1	SNAKE	1
+15	1		TrialProc1	CIGAR	1
+16	1		TrialProc1	SPITE	1
+17	1		TrialProc1	TRENCH	1
+18	1		TrialProc1	FRIGHT	1
+19	1		TrialProc1	ADVERSITY	1
+20	1		TrialProc1	QUEST	1
+21	1		TrialProc1	MISERY	1
+22	1		TrialProc1	NUN	1
+23	1		TrialProc1	DESTINY	1
+24	1		TrialProc1	HALLWAY	1
+25	1		TrialProc1	COPYBOOK	1
+26	1		TrialProc1	JANITOR	1
+27	1		TrialProc1	PACKAGE	1
+28	1		TrialProc1	LEGEND	1
+29	1		TrialProc1	DRUMS	1
+30	1		TrialProc1	NUTMEG	1
+31	1		TrialProc1	COMEDY	1
+32	1		TrialProc1	WAITRESS	1
+33	1		TrialProc1	BRAVERY	1
+34	1		TrialProc1	SERGEANT	1
+35	1		TrialProc1	VOW	1
+36	1		TrialProc1	GENRE	1
+37	1		TrialProc1	MOCKERY	1
+38	1		TrialProc1	VEHICLE	1
+39	1		TrialProc1	HARDSHIP	1
+40	1		TrialProc1	PRESTIGE	1
+41	1		TrialProc1	PAIN	1
+42	1		TrialProc1	CONTEXT	1
+43	1		TrialProc1	FOAM	1
+44	1		TrialProc1	VICINITY	1
+45	1		TrialProc1	BOULDER	1
+46	1		TrialProc1	THRILL	1
+47	1		TrialProc1	DOUBT	1
+48	1		TrialProc1	HATRED	1
+49	1		TrialProc1	MENACE	1
+50	1		TrialProc1	BARLEY	1
+51	1		TrialProc1	PERSON	1
+52	1		TrialProc1	LAGOON	1
+53	1		TrialProc1	HAMMER	1
+54	1		TrialProc1	PRIDE	1
+55	1		TrialProc1	SCORN	1
+56	1		TrialProc1	BRAID	1
+57	1		TrialProc1	TOTAL	1
+58	1		TrialProc1	MOOD	1
+59	1		TrialProc1	BOREDOM	1
+60	1		TrialProc1	NURSERY	1
+61	1		TrialProc1	ALTRUISM	1
+62	1		TrialProc1	SECRET	1
+63	1		TrialProc1	KING	1
+64	1		TrialProc1	PANIC	1
+65	1		TrialProc1	EYEBROWS	1
+66	1		TrialProc1	YACHT	1
+67	1		TrialProc1	GRAVITY	1
+68	1		TrialProc1	PALACE	1
+69	1		TrialProc1	FALLACY	1
+70	1		TrialProc1	STRIKE	1
+71	1		TrialProc1	MOAN	1
+72	1		TrialProc1	MOCCASIN	1
+73	1		TrialProc1	BACHELOR	1
+74	1		TrialProc1	SATELLITE	1
+75	1		TrialProc1	CLOTHES	1
+76	1		TrialProc1	KITE	1
+77	1		TrialProc1	RETREAT	1
+78	1		TrialProc1	NUTRITION	1
+79	1		TrialProc1	STONE	1
+80	1		TrialProc1	FAILURE	1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
